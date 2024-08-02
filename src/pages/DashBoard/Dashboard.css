@@ -1,0 +1,9 @@
+.dashboard-head {
+    background: #662671;
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+    padding: 8px 20px;
+    align-items: center;
+}
